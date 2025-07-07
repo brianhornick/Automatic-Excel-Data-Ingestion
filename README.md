@@ -1,4 +1,4 @@
-# Automatic-Excel-Data-Ingestion & Analysis
+# Automatic Excel Data Ingestion & Analysis
 #### Using Microsoft Excel macros and formatting to create an automatic ingestion solution for a small bakery business
 ### Introduction
   This project aims to develop a fully functional data ingestion solution for a small business using Microsoft Excel. Businesses conduct 10s to hundreds of transactions a day and as such, having to update

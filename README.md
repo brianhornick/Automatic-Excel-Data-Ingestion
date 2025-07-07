@@ -10,4 +10,4 @@ We will also do some analysis on this data, using tools like pivottables, functi
 
   Now that the dataset is downloaded, we must import it into Excel. After using the 'Data' tab's 'Get External Data' - 'From Text', the csv file can be imported into the worksheet. Making sure to use commas as the delimiters, our dataset now looks like this:
 
-  
+![image_alt](https://github.com/brianhornick/Automatic-Excel-Data-Ingestion/blob/main/Screenshot%202025-07-07%20150935.png?raw=true)

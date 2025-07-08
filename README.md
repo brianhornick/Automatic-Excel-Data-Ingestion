@@ -14,5 +14,5 @@ We will also do some analysis on this data, using tools like pivottables, functi
 
   Next, let's turn on the macro recorder and format our table. After formatting our header and fixing the column alignments, the table now looks much cleaner, and we have a recorded macro that can be used to format other worksheets and tables automatically. I also changed the name of the worksheet:
 
-![image_alt](
+![image_alt](https://github.com/brianhornick/Automatic-Excel-Data-Ingestion-and-Analysis/blob/main/Photos/Screenshot%202025-07-08%20140657.png?raw=true)
   

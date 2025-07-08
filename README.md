@@ -10,7 +10,9 @@ We will also do some analysis on this data, using tools like pivottables, functi
 
   Now that the dataset is downloaded, we must import it into Excel. After using the 'Data' tab's 'Get External Data' - 'From Text', the csv file can be imported into the worksheet. Making sure to use commas as the delimiters, our dataset now looks like this:
 
-![image_alt](https://github.com/brianhornick/Automatic-Excel-Data-Ingestion/blob/main/Screenshot%202025-07-07%20150935.png?raw=true)
+![image_alt](https://github.com/brianhornick/Automatic-Excel-Data-Ingestion-and-Analysis/blob/main/Photos/Screenshot%202025-07-07%20150935.png?raw=true)
 
   Next, let's turn on the macro recorder and format our table. After formatting our header and fixing the column alignments, the table now looks much cleaner, and we have a recorded macro that can be used to format other worksheets and tables automatically. I also changed the name of the worksheet:
+
+![image_alt](
   
